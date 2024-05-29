@@ -18,29 +18,30 @@ This project requires Python 3 and several libraries. You can install the requir
 The dataset used for training the model is not included in this repository due to size or privacy concerns. You can find information about obtaining a suitable dataset for hate speech detection online.
 
 ### Usage
-> 1.Clone this repository:
+#### 1.Clone this repository:
 
 > Bash
 
-> `git clone https://github.com/your-username/hate-speech-detection.git`
-> Use code with caution.
-> 2. Navigate to the project directory:
-> Bash
-> `cd hate-speech-detection`
+`git clone https://github.com/your-username/hate-speech-detection.git`
 > Use code with caution.
 
-content_copy
-Train the model:
-Bash
-python train.py
-Use code with caution.
-content_copy
-Evaluate the model:
-Bash
-python evaluate.py
-Use code with caution.
-content_copy
-Note: The specific commands might differ depending on your implementation. Refer to the provided scripts (train.py and evaluate.py) for detailed instructions.
+#### 2. Navigate to the project directory:
+> Bash
+
+`cd hate-speech-detection`
+> Use code with caution.
+
+#### 3. Train the model:
+> Bash
+`python train.py`
+> Use code with caution.
+
+#### 4. Evaluate the model:
+> Bash
+` python evaluate.py`
+> Use code with caution.
+
+> Note: The specific commands might differ depending on your implementation. Refer to the provided scripts (train.py and evaluate.py) for detailed instructions.
 
 Contributing
 We welcome contributions to this project! Please see the CONTRIBUTING.md file for guidelines on how to contribute.
