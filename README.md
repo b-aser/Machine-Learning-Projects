@@ -7,11 +7,6 @@ Hate speech is a serious problem online, causing harm and creating hostile envir
 ### Getting Started
 This project requires Python 3 and several libraries. You can install the required dependencies using pip:
 
-> #### Bash
-> `pip install -r requirements.txt`
-> Use code with caution.
-
-
 > Note: Make sure you have the necessary libraries like TensorFlow or PyTorch installed based on the chosen framework.
 
 ### Data
