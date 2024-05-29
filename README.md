@@ -33,21 +33,24 @@ The dataset used for training the model is not included in this repository due t
 
 #### 3. Train the model:
 > Bash
+
 `python train.py`
 > Use code with caution.
 
 #### 4. Evaluate the model:
 > Bash
+
 ` python evaluate.py`
 > Use code with caution.
 
 > Note: The specific commands might differ depending on your implementation. Refer to the provided scripts (train.py and evaluate.py) for detailed instructions.
 
-Contributing
-We welcome contributions to this project! Please see the CONTRIBUTING.md file for guidelines on how to contribute.
+### Contributing
+We welcome contributions to this project!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+### License
+This project is license-free.
 
-Contact
+### Contact
 If you have any questions or feedback, please feel free to create an issue on this repository.
+
