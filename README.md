@@ -19,8 +19,9 @@ The dataset used for training the model is not included in this repository due t
 
 ### Usage
 > 1.Clone this repository:
-> 
+
 > Bash
+
 > `git clone https://github.com/your-username/hate-speech-detection.git`
 > Use code with caution.
 > 2. Navigate to the project directory:
