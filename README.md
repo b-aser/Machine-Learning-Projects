@@ -8,19 +8,20 @@ Hate speech is a serious problem online, causing harm and creating hostile envir
 This project requires Python 3 and several libraries. You can install the required dependencies using pip:
 
 > #### Bash
-`pip install -r requirements.txt`
-Use code with caution.
-content_copy
-Note: Make sure you have the necessary libraries like TensorFlow or PyTorch installed based on the chosen framework.
+> `pip install -r requirements.txt`
+> Use code with caution.
 
-Data
+
+> Note: Make sure you have the necessary libraries like TensorFlow or PyTorch installed based on the chosen framework.
+
+### Data
 The dataset used for training the model is not included in this repository due to size or privacy concerns. You can find information about obtaining a suitable dataset for hate speech detection online.
 
-Usage
-Clone this repository:
+### Usage
+`1.Clone this repository:
 Bash
 git clone https://github.com/your-username/hate-speech-detection.git
-Use code with caution.
+Use code with caution.`
 content_copy
 Navigate to the project directory:
 Bash
